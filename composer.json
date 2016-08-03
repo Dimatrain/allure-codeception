@@ -1,5 +1,5 @@
 {
-    "name": "allure-framework/allure-codeception",
+    "name": "dimatrain/allure-codeception-fix",
     "keywords":["codeception", "testing", "report", "steps", "attachments", "cases", "allure"],
     "description": "A Codeception adapter for Allure report.",
     "homepage": "http://allure.qatools.ru/",
